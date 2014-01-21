@@ -1,0 +1,25 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: Gse110r.zip
+       Short Description: Check Updated Homepage Utility
+        Long Description: Check Updated Homepage Utility
+      Proposed directory
+           for placement: /pub/os2/apps/internet/www/util
+
+               Your name: Ken Kinoshita
+           Email address: kinop@sakura.email.ne.jp
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: http://prettypop.tsx.org/
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: Warp4
+ Additional requirements: Watcom VX-REXX Runtime (VROBJ.DLL)
+
+                Replaces: Gse101r.zip
+
+

@@ -1,0 +1,22 @@
+/*
+ * Goose Resource File
+ *
+ */
+icon    200   goose.ico
+
+icon    210   site_new.ico
+icon    220   site_edit.ico
+icon    230   site_updated.ico
+icon    240   site_not_updated.ico
+icon    250   site_failed.ico
+icon    260   site_skip.ico
+/*
+icon    260   site_previously_updated.ico
+icon    270   site_previously_not_updated.ico
+icon    280   site_previously_failed.ico
+*/
+
+bitmap  300   room.bmp
+
+bitmap 350 plasticmusic.bmp
+bitmap 360 pistachiolove.bmp

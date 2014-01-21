@@ -1,0 +1,90 @@
+【名    称】  gse110r.zip Check Updated Homepage Utility
+【登 録 名】  gse110r.zip
+【制作者名】  木下　健 (KHB03107)
+【掲載者名】   -
+【転載元名】   -
+【動作環境】  OS/2 Warp
+【関連Soft】  VROBJ.DLL
+【掲載月日】
+【作成方法】  unzip gse110r.zip
+【検索キー】  [1]Homepage  [2]URL    [3]Goose
+------------
+【動作確認】  OS/2 Warp 4
+【ソフト種】  フリーウェア(By-My-CD-Ware)
+【転載条件】  事前にメールでご連絡ください。
+========================================================================
+【内容紹介】
+
+１．概要
+
+ Gooseは更新されたHomepageをチェックするユーティリティです。
+
+    Version 0.80 (28.Oct.1999)
+    a.Little progress. Long way to verion 1.00.
+
+    Version 0.81 (29.Oct.1999)
+    a.Fixed the inconvenience.
+
+    Version 0.82 (30.Oct.1999)
+    a.Fixed the inconvenience.
+
+    Version 0.83 (09.Nov.1999)
+    a.Fixed the problem caused at ObjectREXX environment.
+    b.Fixed the inconvenience.
+
+    Version 0.84 (20.Nov.1999)
+    a.Add `Remember last selected site list' function.
+    b.Add `Change to updated view when check is done' function.
+    c.Fixed the inconveniences.
+
+    Version 0.85 (21.Nov.1999)
+    a.Fixed the inconveniences.
+
+    Version 0.86 (25.Nov.1999)
+    a.Fixed the problem caused when disabled proxy server.
+
+    Version 1.00 (11.Dec.1999)
+    a.Add `Check Previously Not Updated Site Only' function.
+    b.Add `Change to Updated view when check is done' function.
+    c.Add `Skip' function.
+    d.Modify `Delete Site' window.
+    e.Modify pop up menu layout.
+    f.Modify and fix some data of title exchange table.
+    g.Fix the inconveniences (Ping Proxy and other minor problems).
+    h.Becomes `Buy-My-CD-Ware' :)
+
+    Version 1.01 (04.Jan.2000)
+    a.Fixed the minor inconveniences (some GUI and default parameters).
+
+    Version 1.10 (20.Jul.2000)
+    a.Add `Auto Start' Function (when view mode is `ALL').
+    b.Fixed the inconveniences.
+
+
+２．実行方法
+
+ 圧縮ファイルには以下のファイルが入っています。
+
+   Goose.EXE     - Goose本体
+   install.cmd   - 簡易インストーラ
+   readme_e.htm  - Readme file (English)
+   readme_j.htm  - Readme file (日本語)
+   upload.hobbes - Hobbes
+   upload.nifty  - NIFTY-Serve
+
+ この他に実行後 Goose.ini、Homepage.lst、Goose.Flt というファイルを作成
+ しますので専用のディレクトリを作成し全てのファイルを格納してください。
+
+ 本ソフトはVX-REXXで作成されていますので、動作をさせるには別途VROBJ.DLL
+ が必要となります。VROBJ.DLLはNIFTY-Serve FOS2ADVフォーラムのLIB 9やOS/2
+ 関連の雑誌に添付のCD-ROMから入手することが出来ます。
+
+
+３．その他
+
+ ご使用になられたご意見、ご感想を作者までメールしていただければ幸いです。
+ アドレスは kinop@sakura.email.ne.jp です。
+
+
+File Name【gse110r.zip】
+
